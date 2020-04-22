@@ -2,7 +2,7 @@
 
 <body>
 
-  <h1>Resume</h1>
+  <h1 style="text-align:center;">Resume</h1>
 
   <h2> Education </h2>
 
@@ -29,7 +29,13 @@
       classes of cadets, and upholding squadron standards.</p>
   <p> ● Developed leadership and teamwork skills through years of training and leading private or
         public activities. </p>
-
+        
+  <h3> Aurora United Church - Volunteer </h3>
+  <p> Sep 2016 - Apr 2019 </p>
+  <p> ● Setup, serve, and teardown a community breakfast one Saturday morning per month from
+        8:00am to 12:00pm. </p>
+  <p> ● Kept a healthy relationship with the community and the volunteers to ensure a smooth
+        functioning kitchen and meal was being served. </p>
 
 </body>
 
