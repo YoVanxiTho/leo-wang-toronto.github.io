@@ -1,6 +1,7 @@
 <html>
 <style>
   h1 {text-alisn: centre;}
+</style>
 
 <body>
 
