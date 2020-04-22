@@ -1,7 +1,6 @@
 <html>
   
 <body>
-  <title> Leo Wang </title>
   <p> This is still a work in progess </p>
 
   <h1>Resume</h1>
