@@ -2,7 +2,7 @@
 
 <body>
 
-  <h1 style="text-align:center;">Resume</h1>
+  <h1 style="text-align:center;"><b><u>Resume</u></b></h1>
 
   <h2> Education </h2>
 
