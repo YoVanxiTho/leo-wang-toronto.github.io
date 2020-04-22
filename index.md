@@ -23,9 +23,10 @@
   
   <h3> Royal Canadian Air Cadets </h3>
   <p> Oct 2013 - May 2019 </p>
-  <p> ● Held the position of Squadron Training Warrant Officer and flight commander of flight 3. </p>
-  <p>   ○ Responsibilities included planning the training plan for the 2018-2019 year, teach
-          classes of cadets, and upholding squadron standards.</p>
+  <p> ● Held the position of Squadron Training Warrant Officer and flight commander of flight 3
+        for the 2018-2019 year. </p>
+  <p> ● Responsibilities included planning the training plan for the 2018-2019 year, teach
+      classes of cadets, and upholding squadron standards.</p>
   <p> ● Developed leadership and teamwork skills through years of training and leading private or
         public activities. </p>
 
