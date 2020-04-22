@@ -4,6 +4,8 @@
 
   <h1 style="text-align:center;"><b><u>Resume</u></b></h1>
 
+  <embed src="Resume.pdf" width="800px" height="2100px" />
+
   <h2> Education </h2>
 
   <h3>University of Toronto</h3>
