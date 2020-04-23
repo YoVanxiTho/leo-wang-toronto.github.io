@@ -6,7 +6,7 @@
 <body>
 
   <h1 style="text-align:center;"><b><u>My Tutoring Service</u></b></h1>
-  <img src="Summer tutor.jpg" alt="Summer ad">
+  <img src="Summer Tutor.jpg" alt="Summer ad">
 
   <h1 style="text-align:center;"><b><u>Resume</u></b></h1>
   <div class="container">
